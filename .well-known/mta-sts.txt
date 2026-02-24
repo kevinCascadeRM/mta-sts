@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+max_age: 68400
+mx: cascadereceivables-com.mail.eo.outlook.com
